@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Performance Engineering
 - 💞️ I’m looking to collaborate on DEV/Testing(UI/API/Security/DB)
 - 📫 How to reach me prakashsinghsdet@gmail.com
-     Linkedin - https://www.linkedin.com/in/prakash-singh-154287128
+     Linkedin - (https://www.linkedin.com/in/prakash-singh-023034351)
 
 
 <!---
